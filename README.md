@@ -1,2 +1,2 @@
 # AEM
-design repo
+AEM repo
